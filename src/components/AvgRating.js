@@ -1,8 +1,8 @@
 export default function AvgRating () {
     return (
         <div className= "average">
-            <h2>Average Rating</h2>
-            <p>4.6</p>
+            <p>Average Rating</p>
+            <h2>4.6</h2>
         </div>
     )
 }

@@ -1,8 +1,8 @@
 export default function Reviews () {
     return (
         <div className = "reviews">
-            <h2>Reviews</h2>
-            <p>1,281</p>
+            <p>Reviews</p>
+            <h2>1,281</h2>
         </div>
     )
 }

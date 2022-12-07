@@ -1,10 +1,10 @@
 export default function SentimentAnalysis (props) {
     return (
         <div className = "sentiment">
-            <h2>Sentiment Analysis</h2>
-            <p>960</p>
-            <p>122</p>
-            <p>321</p>
+            <p>Sentiment Analysis</p>
+            <h4>960</h4>
+            <h4>122</h4>
+            <h4>321</h4>
         </div>
     )
 }

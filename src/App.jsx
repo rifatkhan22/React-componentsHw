@@ -9,7 +9,7 @@ import './App.css';
 
 function App() {
   return (
-    <>
+    <div className="app">
       <Sidenav />
       <div className="right">
       <div className="top">
@@ -19,7 +19,7 @@ function App() {
       </div>
         <WebsiteVisitors/>
       </div>
-    </>
+    </div>
   );
 }
 
